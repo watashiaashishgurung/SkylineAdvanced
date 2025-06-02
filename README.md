@@ -2,6 +2,7 @@
   <img src="assets/logo/skyline_logo_white_bg.png" alt="Skyline Logo White BG" width="180" style="display:inline-block; margin-right:20px;"/>
   <img src="assets/logo/skyline_logo_blue_bg.png" alt="Skyline Logo Blue BG" width="180" style="display:inline-block;"/>
 </p>
+
 ## **Project Skyline**
 <details>
   <summary> Table of Contents</summary>
